@@ -88,5 +88,16 @@
         "thumbnail": "None",
         "code": 10,
         "stock": 100
+    },
+    {
+        "id": 11,
+        "title": "Dove Nuevo",
+        "description": "Shampo de baño",
+        "price": 1500,
+        "thumbnail": "None",
+        "category": "baño",
+        "status": true,
+        "code": 11,
+        "stock": 100
     }
 ]
